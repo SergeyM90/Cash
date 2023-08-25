@@ -1,0 +1,2 @@
+# Cash
+Кеширование Redis/memcached
