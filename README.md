@@ -1,4 +1,5 @@
-# Кеширование Redis/memcached  Sergey Mironov SYS-20
+# Кеширование Redis/memcached  
+# Sergey Mironov SYS-20
 
 # Задание 1. Кеширование  
 
